@@ -1,0 +1,3 @@
+app:
+  env: QC
+  secretKey: abcd_abcd_acbd_a
